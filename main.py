@@ -1,9 +1,7 @@
 # ESTRUCTURA COMPLETA DEL PROGRAMA
 # Guarda esto como main.py
 
-codigo_ejemplo = 
 import sys
-
 def fahrenheit_a_celsius(f):
     """Convierte Fahrenheit a Celsius."""
     return (f - 32) * 5 / 9
@@ -72,4 +70,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-print(codigo_ejemplo)
